@@ -1,6 +1,6 @@
 # Dice-Game
 
-Create a web-based dice game where users can roll two dice and see the sum of the rolled values. The game should have a visually appealing interface and provide instant feedback to users.
+Created a web-based dice game where users can roll two dice and see the sum of the rolled values. The game should have a visually appealing interface and provide instant feedback to users.
 
 Key Features:
 
